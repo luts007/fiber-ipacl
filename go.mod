@@ -20,3 +20,5 @@ require (
 	github.com/valyala/tcplisten v1.0.0 // indirect
 	golang.org/x/sys v0.26.0 // indirect
 )
+
+retract v1.0.0
